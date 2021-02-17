@@ -2,7 +2,9 @@
 Marlin en Desarrollo para artillery X1 de serie
 ==========
 
-MI LEMA; Sino me a costado aprenderlo, pues tampoco enseñarlo...
+Supuestamente no son bugs porque si estan compilados ok en marlin pero si son errores de comunicacion con la pantalla tactil, aun no domino como programarlas sorry...
+Por ejemplo cuando haces pausa, no aparca pero te deja mover libremente los ejes con la pantalla y luego regresa donde estaba imprimiendo...
+Y tampaco llego averiguar si guarda bien la nivelacion por malla porque aunque en el .ZIP existe el boton no escucho el sonido de la eeprom...
 
 Mejoras:
 --------------------
@@ -11,10 +13,12 @@ Mejoras:
 + NIVELACION MANUAL DE LAS ESQUINAS
 + NIVELACION SEMI-AUTOMATICA MESH
 + PAUSA AVANZADA
++ SENSOR DE FILAMENTO
 + BABYSTEPS
 + DRIVERS SILENCIOSOS
 + SUAVIZADO DE PASOS
 + CAMBIO DE FILAMENTO (RARO)
++ RECUPERACION DE IMPRESION (SD)
 
 Blog personal donde aprender mas:
 --------------------
